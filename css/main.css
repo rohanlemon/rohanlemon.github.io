@@ -1,0 +1,93 @@
+div{
+    border-radius:5px;
+    
+}
+#name{
+    font-family: Cursive, Georgia, Serif;
+    font-weight: bold;
+    font-size: 150%
+}
+    
+body{
+    background-color:purple;
+    height:120%;
+}
+#header{
+    background-color:#FFF700;
+    height:10%;
+    width:99%;
+    position:fixed;
+    z-index:1;
+    margin-left:9.85%;
+    margin-top:5%;
+    float:top;
+    position:fixed;
+    
+    
+}
+#footer{
+    background-color:#FFF700;
+    height:10%;
+    width:90%;
+    clear:left;
+    margin-bottom:20%;
+    float:bottom;
+    position:relative;
+}
+.left{
+    background-color:#00FF00;
+    height:80%;
+    width:5%;
+    float:left;
+    margin-left:5%;
+    position:relative;
+    
+}
+.right{
+    background-color:#00FF00;
+    height:80%;
+    width:5%;
+    float:right;
+    margin-top:9.85%;
+    margin-right:5%;
+    position:relative;
+    
+}
+.infoboxR{
+    position:absolute;
+    width:40%;
+    height:70%;
+    background-color:white;
+    margin:-62.5% 10% 25% 48%;
+}
+.infoboxL{
+    position:absolute;
+    width:34%;
+    height:70%;
+    background-color:white;
+    margin:-62.5% 48% 25% 11%;
+}
+.info{
+    font-family: "Times New Roman", Georgia, Serif;
+    font-weight: bold;
+    position:absolute;
+    margin:0% 0% 0% 0%;
+    background-color:white;
+}
+#eduinfo{
+    background-color:white;
+    position:relative;
+    margin:0% 0% 0% 20%;
+}
+#skillinfo{
+    background-color:white;
+    position:relative;
+    margin:7% 0% 0% 20%;
+}
+#expinfo{
+    background-color:red;
+    position:relative;
+    margin:7% 0% 0% 20%;
+}
+
+    
